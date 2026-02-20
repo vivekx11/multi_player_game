@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 MultiGames - Online Multiplayer Gaming Platform
 
 A Flutter-based multi-game application with real-time online multiplayer support. Play Snake & Ladder, Ludo, Business (Monopoly-style), and Bingo with friends online or offline!
@@ -257,3 +258,6 @@ Built with Flutter and Node.js for seamless cross-platform multiplayer gaming!
 ---
 
 **Happy Gaming! 🎮**
+=======
+# multi_player_game
+>>>>>>> cfdf42f3049b9b3da7efb7279b4490363d378f58

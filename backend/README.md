@@ -1,4 +1,5 @@
 # Multi-Games Backend Server
+SERVER IS CLOSE TEMPORARY 
 
 Real-time multiplayer game server using Node.js, Express, and Socket.IO.
 
